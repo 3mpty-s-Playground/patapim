@@ -1,0 +1,18 @@
+.main {
+    width: 100%;
+    overflow-x: hidden;
+    background: #b8b8b8;
+    color: #252422;
+
+    section {
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        padding-left: 30px;
+
+        p {
+            font-size: 6vw;
+            text-transform: uppercase;
+        }
+    }
+}
