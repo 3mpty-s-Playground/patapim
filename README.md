@@ -1,6 +1,6 @@
 # 🌳 PATAPIM — React Three Fiber & Drei + GSAP ScrollTrigger
 
-Ce projet est une démonstration simple de l'utilisation de [React Three Fiber](https://gsap.com/docs/v3/Plugins/ScrollTrigger/),[React Three Drei](https://gsap.com/docs/v3/Plugins/ScrollTrigger/) et [ScrollTrigger](https://gsap.com/docs/v3/Plugins/ScrollTrigger/) dans une application Next.js.  
+Ce projet est une démonstration simple de l'utilisation de [React Three Fiber](https://r3f.docs.pmnd.rs/getting-started/introduction?trk=public_post_comment-text),[React Three Drei](https://drei.docs.pmnd.rs/getting-started/introduction) et [ScrollTrigger](https://gsap.com/docs/v3/Plugins/ScrollTrigger/) dans une application Next.js.  
 Il fait partie des démos créées pour mes vidéos TikTok sur le développement web.
 
 ![preview](./public/patapim_git.png)
